@@ -1,0 +1,9 @@
+/** SASS FILE FOR ADMIN CSS */
+/* MIXINS */
+/* TRANSITIONS */
+/* ADMIN MENU ICON */
+#toplevel_page_wonka-slide-admin-display div.wp-menu-image.dashicons-before img { width: 24px; padding-top: 5px; }
+
+/* SETTINGS PAGE CONTENT */
+#ws-slide-logo-wrap { width: 150px; height: 150px; }
+#ws-slide-logo-wrap img { width: 100%; }
